@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.6.1)
+  - CountdownLabel (4.0.1)
+  - ImageSlideshow (1.9.2):
+    - ImageSlideshow/Core (= 1.9.2)
+  - ImageSlideshow/Core (1.9.2)
+  - IQKeyboardManagerSwift (6.5.9)
+
+DEPENDENCIES:
+  - Alamofire
+  - CountdownLabel
+  - ImageSlideshow (~> 1.9.0)
+  - IQKeyboardManagerSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CountdownLabel
+    - ImageSlideshow
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  CountdownLabel: c9975e3f329140b5e7d1f45cd63b1300badd1712
+  ImageSlideshow: be305b54eaf2b2cfc7a7141c7c734605d44dc07d
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+
+PODFILE CHECKSUM: 7a624070983d6524ceb8cbbd0aae77ab0234d428
+
+COCOAPODS: 1.11.3
